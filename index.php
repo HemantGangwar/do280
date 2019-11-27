@@ -5,7 +5,7 @@
 <h1>My 2nd PHP page</h1>
 
 <?php
-echo "Hello World!";
+echo "PlaceHolder";
 ?>
 
 </body>
