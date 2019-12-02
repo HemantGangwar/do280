@@ -5,7 +5,7 @@
 <h1>My 2nd PHP page</h1>
 
 <?php
-echo "OC Expert";
+echo "OC Expert v1";
 ?>
 
 </body>
