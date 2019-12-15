@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>My 2nd PHP page</h1>
+<h1>My PHP Application page</h1>
 
 <?php
-echo "OC Expert v1";
+echo "OC Termiology v1";
 ?>
 
 </body>
